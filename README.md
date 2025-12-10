@@ -36,16 +36,6 @@ Currently exploring **backend architecture, distributed systems, and high-perfor
 
 ---
 
-## 📈 GitHub Insights
-
-![Paras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paraschamoli&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paraschamoli&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paraschamoli&layout=compact&theme=dark&hide_border=false)
-
----
-
 ## 🌐 Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paras-chamoli-87b89528b)
 
