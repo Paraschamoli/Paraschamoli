@@ -1,10 +1,16 @@
 # 👋 Hi, I'm Paras Chamoli
 
 A Software Engineer focused on building reliable, scalable, and user-centric applications.  
-I work across the **full stack** with experience in **Go, Node.js, React, PostgreSQL, Docker**, and modern development workflows.
+I work across the **full stack** with experience in **Go, Node.js, React, PostgreSQL, Docker**, and modern backend architectures.
 
-I enjoy designing clean APIs, managing databases efficiently, and building smooth front-end experiences.  
-Currently exploring **distributed systems, backend architecture, and high-performance services**.
+I enjoy designing clean APIs, efficient data models, and smooth front-end experiences.  
+Currently exploring **backend architecture, distributed systems, and high-performance services**.
+
+---
+
+## 🔗 Portfolio  
+🌐 **Live Portfolio:**  
+**https://paraschamoli.github.io/Portfolio-website/**
 
 ---
 
@@ -32,15 +38,15 @@ Currently exploring **distributed systems, backend architecture, and high-perfor
 
 ## 📈 GitHub Insights
 
-![](https://github-readme-stats.vercel.app/api?username=Paraschamoli&show_icons=true&theme=dark&hide_border=false)
+![Paras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paraschamoli&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Paraschamoli&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paraschamoli&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paraschamoli&layout=compact&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paraschamoli&layout=compact&theme=dark&hide_border=false)
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paras-chamoli-87b89528b)
 
 ---
