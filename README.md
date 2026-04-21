@@ -1,4 +1,5 @@
-# Paras Chamoli
+# 👋 Hi, I'm Paras Chamoli
+
 
 Software Engineer building scalable, user-centric applications with Python, Rust, Go, Node.js, React, PostgreSQL & Docker.
 
